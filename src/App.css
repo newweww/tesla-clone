@@ -2,6 +2,26 @@
   text-align: center;
 }
 
+body {
+  overflow-x: hidden;
+}
+
+.root {
+  overflow-x: hidden;
+}
+
+.font-tesla {
+  font-family: "GothamMedium";
+}
+
+.font-tesla-light {
+  font-family: "GothamLight";
+}
+
+.font-tesla-book {
+  font-family: "GothamBook";
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
